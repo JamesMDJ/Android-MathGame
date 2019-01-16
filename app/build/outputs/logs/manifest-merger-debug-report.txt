@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a184f160c33164e5c7d2dc234b36ca8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\80e3056d38d40696bd3051f3027f5fae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\819d42054bb50e6db1ca62a6595611db\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac70fb7486c4d30fbf83dd689ed7d4a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\52396db57533f0c349903c16fd48843d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fc3b06f23340520f2993a520876d6e81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d20369e3c6b71c5bafb0a0e6a6d5ffc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bd5d7b5caae948abaa3ee0943c0d7897\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\13cdf6679d0cd14aad9243d2a0157a2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fc9ae14f261b2d9f9bbe2f1e676122da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e6125f12e440d2cdca92425001658ebb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bcc9048277f40e9e36848ab92dd3198d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3b42639287d185a5c4fb77080ff593c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ccd54e2dabd4fd021818b3d3f18e6926\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0841da0ff19a1c7fcb263a2cdb43f39f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65fd95d57b78bc4775e5e47c90191b86\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ef55718c740ea314f45b2c73c9f7d7f5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\819d42054bb50e6db1ca62a6595611db\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\819d42054bb50e6db1ca62a6595611db\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:9:9-50
+	android:icon
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:7:9-39
+	android:allowBackup
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.james.ma.math_game.StartActivity
+ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:12:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.james.ma.math_game.MathActivity
+ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:21:13-56
+	android:theme
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:20:13-41
+activity#com.james.ma.math_game.SettingActivity
+ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:23:9-62
+	android:name
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml:23:19-50
+uses-sdk
+INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a184f160c33164e5c7d2dc234b36ca8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a184f160c33164e5c7d2dc234b36ca8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\80e3056d38d40696bd3051f3027f5fae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\80e3056d38d40696bd3051f3027f5fae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\819d42054bb50e6db1ca62a6595611db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\819d42054bb50e6db1ca62a6595611db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac70fb7486c4d30fbf83dd689ed7d4a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac70fb7486c4d30fbf83dd689ed7d4a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\52396db57533f0c349903c16fd48843d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\52396db57533f0c349903c16fd48843d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fc3b06f23340520f2993a520876d6e81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fc3b06f23340520f2993a520876d6e81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d20369e3c6b71c5bafb0a0e6a6d5ffc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d20369e3c6b71c5bafb0a0e6a6d5ffc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bd5d7b5caae948abaa3ee0943c0d7897\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bd5d7b5caae948abaa3ee0943c0d7897\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\13cdf6679d0cd14aad9243d2a0157a2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\13cdf6679d0cd14aad9243d2a0157a2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fc9ae14f261b2d9f9bbe2f1e676122da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fc9ae14f261b2d9f9bbe2f1e676122da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e6125f12e440d2cdca92425001658ebb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e6125f12e440d2cdca92425001658ebb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bcc9048277f40e9e36848ab92dd3198d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bcc9048277f40e9e36848ab92dd3198d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3b42639287d185a5c4fb77080ff593c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3b42639287d185a5c4fb77080ff593c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ccd54e2dabd4fd021818b3d3f18e6926\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ccd54e2dabd4fd021818b3d3f18e6926\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0841da0ff19a1c7fcb263a2cdb43f39f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0841da0ff19a1c7fcb263a2cdb43f39f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65fd95d57b78bc4775e5e47c90191b86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65fd95d57b78bc4775e5e47c90191b86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ef55718c740ea314f45b2c73c9f7d7f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ef55718c740ea314f45b2c73c9f7d7f5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MA\AndroidStudioProjects\Math_game\app\src\main\AndroidManifest.xml
