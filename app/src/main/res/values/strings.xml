@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Math Games</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="title_activity_math">MathActivity</string>
-    <string name="score">Score:</string>
-    <string name="time">Time:</string>
-</resources>
