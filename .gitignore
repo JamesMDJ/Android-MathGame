@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 
 *.flat
 *.apk
 *.dex
 *.jar
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+>>>>>>> parent of af21152... Revert "Initial commit"
