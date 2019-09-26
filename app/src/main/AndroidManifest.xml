@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.james.ma.math_game">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
     <application
         android:allowBackup="true"
@@ -9,7 +11,19 @@
         android:roundIcon="@mipmap/ic_math_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".StartActivity">
+
+        <!--<meta-data-->
+            <!--android:name="com.google.android.gms.ads.APPLICATION_ID"-->
+            <!--android:value="ca-app-pub-3940256099942544~3347511713"/>-->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-4436113751079989~9467337855"/>
+
+        <meta-data android:name="com.google.android.gms.games.APP_ID"
+            android:value="@string/app_id" />
+
+        <activity android:name=".StartActivity"
+                 android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -21,6 +35,7 @@
             android:label="@string/title_activity_math"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".SettingActivity"></activity>
+
     </application>
 
 </manifest>

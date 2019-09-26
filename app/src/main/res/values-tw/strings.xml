@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Math Games</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_math">MathActivity</string>
+    <string name="score">分數:</string>
+    <string name="time">時間:</string>
+    <string name="pause">暫停</string>
+    <string name="resume">回到遊戲</string>
+    <string name="quit">結束遊戲</string>
+    <string name="start">開始</string>
+    <string name="setting">設定</string>
+    <string name="ok">確定</string>
+    <string name="again">在玩一次</string>
+    <string name="game_over">遊戲結束</string>
+    <string name="status_exception_error">%1$s (status %2$d). %3$s.</string>
+    <string name="players_exception">There was an issue communicating with players.</string>
+    <string name="btn_leaderboard">排行榜</string>
+    <string name="leaderboards_exception">There was an issue communicating with leaderboards.</string>
+    <string name="login">登入</string>
+    <string name="alert_sing_in">請先登入Google帳號</string>
+    <string name="sign_out">登出</string>
+    <string name="cancel">取消</string>
+</resources>

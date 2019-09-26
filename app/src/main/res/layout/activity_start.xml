@@ -55,8 +55,7 @@
                 android:layout_width="match_parent"
                 android:gravity="center"
                 android:layout_weight="1"
-                android:layout_height="match_parent"
-                android:paddingBottom="25dp">
+                android:layout_height="match_parent">
 
                 <Button
                     android:id="@+id/btn_setting"
@@ -67,6 +66,42 @@
                     android:text="SETTING"
                     android:textStyle="bold" />
             </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:paddingBottom="25dp">
+                >
+
+                <Button
+                    android:id="@+id/btn_leaderboard"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:background="@drawable/shape_rectangle"
+                    android:text="Leaderboard"
+                    android:textStyle="bold" />
+            </TableRow>
+            <!--<TableRow-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:paddingBottom="25dp">-->
+
+                <!--<Button-->
+                    <!--android:id="@+id/btn_singout"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:gravity="center"-->
+                    <!--android:background="@drawable/shape_rectangle"-->
+                    <!--android:text="Sing Out"-->
+                    <!--android:textStyle="bold" />-->
+            <!--</TableRow>-->
+
+
+
 
         </TableLayout>
 

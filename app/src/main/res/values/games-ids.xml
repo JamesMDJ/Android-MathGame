@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">980664416656</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">com.james.ma.math_game</string>
+    <!-- leaderboard Level easy(add) -->
+    <string name="leaderboard_level_easyadd" translatable="false">CgkIkPOdocUcEAIQAA</string>
+    <!-- leaderboard Level easy(sub) -->
+    <string name="leaderboard_level_easysub" translatable="false">CgkIkPOdocUcEAIQAg</string>
+    <!-- leaderboard Level easy(Multiplication) -->
+    <string name="leaderboard_level_easymultiplication" translatable="false">CgkIkPOdocUcEAIQAw</string>
+    <!-- leaderboard Level easy(Division) -->
+    <string name="leaderboard_level_easydivision" translatable="false">CgkIkPOdocUcEAIQBA</string>
+    <!-- leaderboard Level easy(Mix) -->
+    <string name="leaderboard_level_easymix" translatable="false">CgkIkPOdocUcEAIQBQ</string>
+    <!-- leaderboard Level  medium(Add) -->
+    <string name="leaderboard_level__mediumadd" translatable="false">CgkIkPOdocUcEAIQBg</string>
+    <!-- leaderboard Level  medium(Sub) -->
+    <string name="leaderboard_level__mediumsub" translatable="false">CgkIkPOdocUcEAIQBw</string>
+    <!-- leaderboard Level  medium(Multiplication) -->
+    <string name="leaderboard_level__mediummultiplication" translatable="false">CgkIkPOdocUcEAIQCA</string>
+    <!-- leaderboard Level  medium(Division) -->
+    <string name="leaderboard_level__mediumdivision" translatable="false">CgkIkPOdocUcEAIQCQ</string>
+    <!-- leaderboard Level  medium(Mix) -->
+    <string name="leaderboard_level__mediummix" translatable="false">CgkIkPOdocUcEAIQCg</string>
+    <!-- leaderboard Level hard(add) -->
+    <string name="leaderboard_level_hardadd" translatable="false">CgkIkPOdocUcEAIQCw</string>
+    <!-- leaderboard Level hard(sub) -->
+    <string name="leaderboard_level_hardsub" translatable="false">CgkIkPOdocUcEAIQDA</string>
+    <!-- leaderboard Level hard(Multiplication) -->
+    <string name="leaderboard_level_hardmultiplication" translatable="false">CgkIkPOdocUcEAIQDQ</string>
+    <!-- leaderboard Level hard(Division) -->
+    <string name="leaderboard_level_harddivision" translatable="false">CgkIkPOdocUcEAIQDg</string>
+    <!-- leaderboard Level hard(Mix) -->
+    <string name="leaderboard_level_hardmix" translatable="false">CgkIkPOdocUcEAIQDw</string>
+</resources>

@@ -12,4 +12,7 @@ public class Setting {
     public enum OPT {
         ADD,SUB,MUL,DIV,MIX
     }
+    public enum ANSWER {
+       questionA,questionB,questionC,answer
+    }
 }

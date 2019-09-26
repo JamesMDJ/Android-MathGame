@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Math Games</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_math">MathActivity</string>
+    <string name="score">Score:</string>
+    <string name="time">Time:</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="quit">Quit</string>
+    <string name="start">Start</string>
+    <string name="setting">Setting</string>
+    <string name="ok">OK</string>
+    <string name="again">Again</string>
+    <string name="game_over">Game Over</string>
+    <string name="status_exception_error">%1$s (status %2$d). %3$s.</string>
+    <string name="players_exception">There was an issue communicating with players.</string>
+    <string name="btn_leaderboard">Leaderboard</string>
+    <string name="leaderboards_exception">There was an issue communicating with leaderboards.</string>
+    <string name="login">Login</string>
+    <string name="alert_sing_in">Need to login to google account</string>
+    <string name="sign_out">Sign out</string>
+    <string name="cancel">Cancel</string>
+</resources>
